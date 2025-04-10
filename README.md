@@ -8,3 +8,4 @@ Misc Tutorials to help improve Python Skills
 - [Lesson 2](https://github.com/papagorgio23/Python_101/blob/main/intro/02_Python_Math_101.ipynb): Basic Math with Python
 - [Lesson 3](https://github.com/papagorgio23/Python_101/blob/main/intro/03_Connect_to_GBQ.ipynb): Connect to Google BigQuery
 - [Lesson 4](https://github.com/papagorgio23/Python_101/blob/main/intro/04_Austen_GBQ_Upload.ipynb): Insert CSV file into Google Big Query
+- [Lesson 5](https://github.com/papagorgio23/Python_101/blob/master/intro/05_E_mail_Notification_Template_Update_to_GBQ_.ipynb): Automated Email Notifications
